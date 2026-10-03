@@ -1,0 +1,33 @@
+{
+ "name": "RTAF Security Cooperation – AWG Dashboard",
+ "short_name": "AWG Dashboard",
+ "description": "ความร่วมมือ ทอ. กับ ทอ.มิตรประเทศ ปีงบ 68–69 (เข้ารหัส)",
+ "lang": "th",
+ "dir": "ltr",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#060a13",
+ "theme_color": "#060a13",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
