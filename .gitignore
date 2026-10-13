@@ -1,0 +1,12 @@
+# ห้ามวางไฟล์ไม่เข้ารหัสใน publish repo — index.html ที่เข้ารหัสโดย release.py เท่านั้น
+external_refs*
+refs_images*
+img/
+dist/
+src/
+data*.js
+*.xlsx
+*.json
+!manifest.webmanifest
+NOTES*
+*.md
