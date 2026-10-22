@@ -10,3 +10,8 @@ data*.js
 !manifest.webmanifest
 NOTES*
 *.md
+# HTML: เผยแพร่ได้เฉพาะ index.html (ฉบับเข้ารหัส) · กันหน้า pitch/ไฟล์ทดลองที่ไม่เข้ารหัส (เหตุ 22 ต.ค.69)
+pitch*.html
+*.html
+*.htm
+!index.html
